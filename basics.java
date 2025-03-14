@@ -10,5 +10,8 @@ public class basics {
         System.out.println("***");
         System.out.println("**");
         System.out.println("*");
+
+        int a=10;
+        int b=5;
     }
 }
