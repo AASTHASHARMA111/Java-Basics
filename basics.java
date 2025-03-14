@@ -13,5 +13,9 @@ public class basics {
 
         int a=10;
         int b=5;
+        System.out.print(a);
+        String name="India";
+        System.out.print(name);
+                         
     }
 }
