@@ -13,9 +13,10 @@ public class basics {
 
         int a=10;
         int b=5;
-        System.out.print(a);
+        System.out.println(a);
+        System.out.println(b);
         String name="India";
-        System.out.print(name);
+        System.out.println(name);
                          
     }
 }
